@@ -1,2 +1,0 @@
-The whole point of the open closed principle is to be open for extension but closed for 
-modification and were performing modifications here.

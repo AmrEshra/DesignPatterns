@@ -1,1 +1,0 @@
-Every Class should be has single responsibility principle , if all methods in one class it will be GOD class which isn't Good
