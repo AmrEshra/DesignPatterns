@@ -1,4 +1,4 @@
-package singleton;
+package com.code.singleton;
 
 public class Preferences {
 
