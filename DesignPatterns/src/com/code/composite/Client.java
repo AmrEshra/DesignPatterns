@@ -11,25 +11,14 @@ public class Client {
         group.getGraphics().add(line);
         group.getGraphics().add(rectangle);
 
-        group.draw();
-
         Line line1 = new Line();
         GraphicItemGroup group2 = new GraphicItemGroup();
         group2.getGraphics().add(line1);
-
-
         group2.getGraphics().add(group);
 
         System.out.println("drawing group two");
 
         group2.draw();
-
-        line.draw();
-
-
-
-
-
     }
 
 }
